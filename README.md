@@ -4,9 +4,9 @@ please create a database schema before running the application
 
 #working
 Step 1
-*install Java in the Laptop
-*install spring tool suite 4
-*install the git bash
+*install Java in the Laptop <br />
+*install spring tool suite 4 <br />
+*install the git bash <br />
 
 Step 2
 *clone the repo from https://github.com/hanuman2601/task.git 
