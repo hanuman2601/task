@@ -10,7 +10,7 @@ Step 1
 
 Step 2
 *clone the repo from https://github.com/hanuman2601/task.git 
-*import that project to the spring tool suite
+/n *import that project to the spring tool suite
 
 Step 3
 *create a schema using the random name.
